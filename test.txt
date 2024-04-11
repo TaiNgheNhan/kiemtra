@@ -2,4 +2,5 @@ them file test
 file cua nhanh1
 them dong cho test.txt cua main
 1
+them 2
 
